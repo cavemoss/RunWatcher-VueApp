@@ -1,0 +1,25 @@
+{
+  "name": "vue-app",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ws": "node ./src/web-socket.js",
+    "srv": "node ./src/server.js",
+    "dev": "vite",
+    "expose": "vite --host",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "vue": "^3.4.21",
+    "vue-router": "^4.0.13",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8"
+  }
+}

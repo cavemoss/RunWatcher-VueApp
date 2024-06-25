@@ -1,0 +1,57 @@
+attack_speed 
+tankiness
+healing on_kill
+damage !crit
+movement_speed
+healing
+burst_damage
+proc damage
+attack_speed movement_speed
+healing
+area_of_effect_damage
+proc
+damage
+movement_speed
+unique
+proc damage
+no_effect
+damage
+barrier on_kill
+damage
+tankyness
+tankiness
+attack_speed movement_speed
+healing
+damage
+tankiness
+unique
+
+proc damage
+on_kill area_of_effect_damage
+mobility 
+proc area_of_effect_damage
+healing (attack_speed)
+crit attack_speed
+movement_speed
+unique
+crit healing
+unique
+tankiness
+on_kill
+on_kill movement_speed attack_speed damage
+tankiness
+burst_damage
+burst_damage
+unique
+movement_speed
+damage
+attack_speed
+healing
+damage
+on_kill
+damage
+
+!fire damage
+unique
+
+ 
